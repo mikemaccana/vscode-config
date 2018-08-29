@@ -1,0 +1,14 @@
+{
+	"git.path": "C:/Users/mikem/AppData/Local/Atlassian/SourceTree/git_local/bin/git",
+	"workbench.colorTheme": "Monokai",
+	"editor.wordWrap": "on",
+	// See https://gallery.technet.microsoft.com/scriptcenter/Get-NetworkStatistics-66057d71
+	"window.smoothScrollingWorkaround": true,
+	"window.titleBarStyle": "native",
+
+	// Prettier extension
+	"prettier.printWidth": 120,
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"editor.formatOnSave": true
+}
